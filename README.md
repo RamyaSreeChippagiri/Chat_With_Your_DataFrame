@@ -4,6 +4,6 @@ Here's a quick guide on querying your data, particularly from CSV and Excel file
 
 ## Prerequisites
 
-**Install pandasai**
+**Install pandasai\n** 
 !pip install -q pandasai
 
